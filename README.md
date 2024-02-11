@@ -25,8 +25,12 @@
 </Project>
 
 ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+
+
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 Scaffold-Dbcontext "Server=DESKTOP-QVPOJIS\SQLEXPRESS1; Database=CodeFirstDB; Trusted_Connection=True; TrustServerCertificate=True;"Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
 
 Scaffold-Dbcontext "Server=DESKTOP-QVPOJIS\SQLEXPRESS1; Database=CodeFirstDB; Trusted_Connection=True; TrustServerCertificate=True;"Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
 
-````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
